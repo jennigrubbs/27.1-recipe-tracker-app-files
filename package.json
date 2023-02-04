@@ -2,7 +2,6 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jennigrubbs.github.io/27.1-recipe-tracker-app-files/",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react": "^16.13.1",
